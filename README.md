@@ -6,7 +6,7 @@ After completing this tutorial the student will be able to bla bla bla...
 
 ## Contents
 
-1. Open map in ArcGIS Online from feature layer
+1. [Open map in ArcGIS Online from feature layer](contents/01-open-map-in-ArcGIS)
 2. Saving your map
 3. Customizing basic map features
 4. Importing additional layers
